@@ -1,1 +1,1 @@
-# social-web
+Hacker News clone in Django
